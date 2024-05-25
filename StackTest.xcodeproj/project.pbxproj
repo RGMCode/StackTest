@@ -36,6 +36,7 @@
 		36420ACB2C028DE9009900A5 = {
 			isa = PBXGroup;
 			children = (
+				36420AE52C028E16009900A5 /* README.md */,
 				36420AD62C028DE9009900A5 /* StackTest */,
 				36420AD52C028DE9009900A5 /* Products */,
 			);
@@ -54,7 +55,6 @@
 			children = (
 				36420AD72C028DE9009900A5 /* StackTestApp.swift */,
 				36420AD92C028DE9009900A5 /* ContentView.swift */,
-				36420AE52C028E16009900A5 /* README.md */,
 				36420ADB2C028DEA009900A5 /* Assets.xcassets */,
 				36420ADD2C028DEA009900A5 /* Preview Content */,
 			);
